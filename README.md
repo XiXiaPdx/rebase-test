@@ -7,5 +7,6 @@ feature - second commit
 feature - third commit
 
 master - 2nd commit
+feature - fourth commit
 
 master - 3rd commit 
