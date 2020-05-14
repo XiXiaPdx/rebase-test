@@ -1,17 +1,11 @@
-intial commit
-:`
-feature - first commit
-
-feature - second commit
-
-feature - third commit
-
-master - 2nd commit
-feature - fourth commit
-
+feature3 - delete all this
 master - 3rd commit 
 
 master - 4th commit
 
-master - 5th
-feature - 5th
+master3 - 5th
+feature3 - 5th
+
+feature3 - 6th
+feature2to3 - 1st commit
+feature2to3 - 2nd commit
