@@ -18,3 +18,5 @@ feature 4 - 2nd
 feature 4 - before rebase onto master
 
 featuer 4 - 1st after
+
+new feature
