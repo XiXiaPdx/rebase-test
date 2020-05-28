@@ -20,3 +20,4 @@ feature 4 - before rebase onto master
 featuer 4 - 1st after
 
 new feature
+new feature - 2nd commit
