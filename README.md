@@ -17,3 +17,4 @@ master - 5th
 feature - 5th
 
 master - a commit feature 2 does not have
+master - another commit not on feature 2
