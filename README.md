@@ -9,3 +9,7 @@ feature3 - 5th
 feature3 - 6th
 feature2to3 - 1st commit
 feature2to3 - 2nd commit
+
+master - 5th
+feature - 5th
+
