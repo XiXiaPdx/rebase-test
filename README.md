@@ -13,3 +13,8 @@ feature2to3 - 2nd commit
 master - 5th
 feature - 5th
 
+feature 4- 1st
+feature 4 - 2nd
+feature 4 - before rebase onto master
+
+featuer 4 - 1st after
