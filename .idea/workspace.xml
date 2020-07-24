@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69047a08-ce42-4bf0-bead-5e84994cc8a3" name="Default Changelist" comment="" />
+    <list default="true" id="69047a08-ce42-4bf0-bead-5e84994cc8a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <list id="9ca10513-9088-4e7a-8acb-70681fc855f1" name="new changes" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +90,7 @@
       <workItem from="1590960074500" duration="700000" />
       <workItem from="1595352315967" duration="32000" />
       <workItem from="1595537971157" duration="902000" />
-      <workItem from="1595575858116" duration="1798000" />
+      <workItem from="1595575858116" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="feature first commit">
       <created>1586064377858</created>
