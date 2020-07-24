@@ -28,3 +28,6 @@ start commit, I'm changing you now!
 
 duplicate 1
 duplicate 2
+
+first dup commit
+dup again
