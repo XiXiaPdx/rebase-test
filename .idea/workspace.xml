@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69047a08-ce42-4bf0-bead-5e84994cc8a3" name="Default Changelist" comment="" />
+    <list id="9ca10513-9088-4e7a-8acb-70681fc855f1" name="new changes" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a6lisCk6vkFOZopsiqXOKIZicn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../kamon-play-scala-sample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-samples-play-scala-rest-api-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69047a08-ce42-4bf0-bead-5e84994cc8a3" name="Default Changelist" comment="" />
+      <changelist id="9ca10513-9088-4e7a-8acb-70681fc855f1" name="new changes" comment="" />
+      <created>1586064054340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586064054340</updated>
+      <workItem from="1586064056375" duration="8851000" />
+      <workItem from="1589213196120" duration="473000" />
+      <workItem from="1589303197316" duration="5254000" />
+      <workItem from="1590680800934" duration="4414000" />
+      <workItem from="1590705461485" duration="44000" />
+      <workItem from="1590960074500" duration="700000" />
+      <workItem from="1595352315967" duration="32000" />
+      <workItem from="1595537971157" duration="902000" />
+      <workItem from="1595575858116" duration="1798000" />
+    </task>
+    <task id="LOCAL-00001" summary="feature first commit">
+      <created>1586064377858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586064377858</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feature second commit">
+      <created>1586066215649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586066215649</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feature third commit">
+      <created>1586067745261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586067745261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="master 2nd commit">
+      <created>1586067855886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586067855886</updated>
+    </task>
+    <task id="LOCAL-00005" summary="master 3rd commit">
+      <created>1586068029939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586068029939</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feature fourth commit">
+      <created>1586068098875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586068098875</updated>
+    </task>
+    <task id="LOCAL-00007" summary="master fourth">
+      <created>1586072389861</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586072389861</updated>
+    </task>
+    <task id="LOCAL-00008" summary="master 5th">
+      <created>1586072738662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586072738662</updated>
+    </task>
+    <task id="LOCAL-00009" summary="featrure 5th">
+      <created>1586072763985</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586072763985</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feature2 1st commit">
+      <created>1589486223159</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589486223159</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feature2 2nd commit">
+      <created>1589486238204</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589486238204</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feature2 branch making a feature3 commit">
+      <created>1589486466521</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589486466521</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feature2 is missing this commit on master">
+      <created>1589510319714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589510319714</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feature2 is also missing this">
+      <created>1590681109059</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681109059</updated>
+    </task>
+    <task id="LOCAL-00015" summary="yup missing this as well">
+      <created>1590681129179</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681129179</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feature 4 1st">
+      <created>1590681476849</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681476849</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feature 4 2nd">
+      <created>1590681487668</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681487668</updated>
+    </task>
+    <task id="LOCAL-00018" summary="master - 1st ahead of feature 4 on new file">
+      <created>1590681717480</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681717480</updated>
+    </task>
+    <task id="LOCAL-00019" summary="master - 2nd ahead of feature 4 on new file">
+      <created>1590681732481</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681732481</updated>
+    </task>
+    <task id="LOCAL-00020" summary="master - 3rd ahead of feature 4 on new file">
+      <created>1590681744693</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681744693</updated>
+    </task>
+    <task id="LOCAL-00021" summary="featuer 4 - before rebase onto msater">
+      <created>1590682196361</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590682196361</updated>
+    </task>
+    <task id="LOCAL-00022" summary="featuer 4 - 1st after">
+      <created>1590690143347</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690143347</updated>
+    </task>
+    <task id="LOCAL-00023" summary="master -1st after">
+      <created>1590690194887</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690194887</updated>
+    </task>
+    <task id="LOCAL-00024" summary="master -2nd after">
+      <created>1590690206511</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690206511</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feature - after duplicate">
+      <created>1590690698757</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690698757</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new feature">
+      <created>1590690840528</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690840528</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ahead of new">
+      <created>1590690867997</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690867997</updated>
+    </task>
+    <task id="LOCAL-00028" summary="2nd ahead of nw">
+      <created>1590690879586</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690879586</updated>
+    </task>
+    <task id="LOCAL-00029" summary="2nd commit on new">
+      <created>1590690988211</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1590690988211</updated>
+    </task>
+    <task id="LOCAL-00030" summary="testing cherry pick">
+      <created>1595538021756</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1595538021756</updated>
+    </task>
+    <task id="LOCAL-00031" summary="start commit">
+      <created>1595576216790</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1595576216790</updated>
+    </task>
+    <task id="LOCAL-00032" summary="first commit on follow of new feature">
+      <created>1595576339690</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1595576339690</updated>
+    </task>
+    <task id="LOCAL-00033" summary="start commit">
+      <created>1595576591963</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1595576591963</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature2" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master 5th" />
+    <MESSAGE value="featrure 5th" />
+    <MESSAGE value="feature2 1st commit" />
+    <MESSAGE value="feature2 2nd commit" />
+    <MESSAGE value="feature2 branch making a feature3 commit" />
+    <MESSAGE value="feature2 is missing this commit on master" />
+    <MESSAGE value="feature2 is also missing this" />
+    <MESSAGE value="yup missing this as well" />
+    <MESSAGE value="feature 4 1st" />
+    <MESSAGE value="feature 4 2nd" />
+    <MESSAGE value="master - 1st ahead of feature 4 on new file" />
+    <MESSAGE value="master - 2nd ahead of feature 4 on new file" />
+    <MESSAGE value="master - 3rd ahead of feature 4 on new file" />
+    <MESSAGE value="featuer 4 - before rebase onto msater" />
+    <MESSAGE value="featuer 4 - 1st after" />
+    <MESSAGE value="master -1st after" />
+    <MESSAGE value="master -2nd after" />
+    <MESSAGE value="feature - after duplicate" />
+    <MESSAGE value="new feature" />
+    <MESSAGE value="ahead of new" />
+    <MESSAGE value="2nd ahead of nw" />
+    <MESSAGE value="2nd commit on new" />
+    <MESSAGE value="testing cherry pick" />
+    <MESSAGE value="first commit on follow of new feature" />
+    <MESSAGE value="start commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="start commit" />
+  </component>
+</project>
